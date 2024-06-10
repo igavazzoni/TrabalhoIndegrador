@@ -1,0 +1,6 @@
+com\mycompany\vendasapi\Util.class
+dto\ProdutoDTO.class
+dto\ClienteDTO.class
+dto\ItemVendaDTO.class
+com\mycompany\vendasapi\VendasApi.class
+service\ProdutoService.class
