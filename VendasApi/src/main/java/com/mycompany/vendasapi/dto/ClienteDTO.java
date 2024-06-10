@@ -46,9 +46,6 @@ public class ClienteDTO {
     public void setEmail(String email) {
         this.email = email;
     }
-      @Override
-    public String toString() {
-        return "{" + "id=" + id + ", nome=" + nome + ", telefone=" + telefone + ", email=" + email + '}';
-    }
+
     
 }
